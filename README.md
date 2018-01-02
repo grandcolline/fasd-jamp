@@ -3,6 +3,7 @@
 ## install
 
 ```
+$ brew install fasd
 $ fisher grandcolline/fasd-jump
 ```
 
