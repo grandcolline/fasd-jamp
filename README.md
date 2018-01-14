@@ -1,4 +1,5 @@
-# fasd-jump
+fasd-jump
+---
 
 ## install
 
